@@ -3,6 +3,6 @@ a=int(side**0.5)
 num = 1
 for i in range(a):
     for j in range(a):
-        print(num, end = ' 5')
+        print(num, end = ' 22')
         num =num+ 1
     print('\n')
