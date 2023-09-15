@@ -1,4 +1,4 @@
-side = int(input("Please Enter any Side of a Square  : "))
+side = int(input("Please enter any Side of a Square  : "))
 a=int(side**0.5)
 num = 1
 for i in range(a):
